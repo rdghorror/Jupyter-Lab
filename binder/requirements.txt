@@ -3,6 +3,7 @@ ipython
 pandas
 gym
 geopandas
+postcodes
 matplotlib
 pygame
 keras

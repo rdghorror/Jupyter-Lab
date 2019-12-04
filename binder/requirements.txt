@@ -1,6 +1,8 @@
 traitlets>=4.3.1
 ipython
 pandas
+pygeocoder
+Geocoder
 gym
 geopandas
 postcodes_io_api

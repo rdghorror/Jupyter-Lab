@@ -4,6 +4,7 @@ pandas
 gym
 geopandas
 postcodes
+pprint
 matplotlib
 pygame
 keras

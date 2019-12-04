@@ -3,8 +3,7 @@ ipython
 pandas
 gym
 geopandas
-postcodes
-pprint
+postcodes_io_api
 matplotlib
 pygame
 keras

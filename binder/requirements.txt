@@ -1,16 +1,9 @@
 traitlets>=4.3.1
 ipython
 pandas
-pygeocoder
-Geocoder
-pygeocodio
-reverse-geocode
+geocoder
 geopandas
-postcodes_io_api
 matplotlib
-pygame
-keras
 seaborn
-tensorflow
 vdom
 jupyterlab_launcher>=0.5.0

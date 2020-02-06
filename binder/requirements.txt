@@ -3,6 +3,7 @@ ipython
 pandas
 pygeocoder
 Geocoder
+pygeocodio
 reverse-geocode
 geopandas
 postcodes_io_api

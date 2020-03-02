@@ -4,6 +4,7 @@ pandas
 arcgis
 geocoder
 geopandas
+O365
 matplotlib
 seaborn
 vdom
